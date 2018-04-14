@@ -1,2 +1,2 @@
 # C-sharp
-C# trainings
+Exercises based on services like Codewars.. and others.
